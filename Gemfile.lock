@@ -204,10 +204,17 @@ GEM
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.11.3)
+snyk-fix-5be167270bbd6d6ed0f3c3694cb094b9
     multipart-post (2.1.1)
     nokogiri (1.10.4)
       mini_portile2 (~> 2.4.0)
     octokit (4.14.0)
+=======
+    multipart-post (2.0.0)
+    nokogiri (1.10.4)
+      mini_portile2 (~> 2.4.0)
+    octokit (4.13.0)
+master
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
